@@ -36,10 +36,10 @@ La curva della popolazione carceraria riflette la storia legislativa del paese:
 
 Il progetto segue un flusso di lavoro che separa la preparazione del dato dalla visualizzazione:
 
-1.  **Data Ingestion & Cleaning (Python):** La pulizia e manipolazione dei dati ISTAT sono state effettuate esternamente per garantire massima precisione:
+1.  **Data Ingestion & Cleaning(Python):** La pulizia e manipolazione dei dati ISTAT sono state effettuate esternamente:
     * **Pandas & Numpy:** Utilizzati per gestire dataset complessi, normalizzare i nomi dei territori e gestire i valori mancanti nelle serie storiche storiche.
-    * **Feature Engineering:** Calcolo dei tassi pro-capite (indici per 100 abitanti o 100.000 residenti) per rendere confrontabili regioni con popolazioni diverse (es. Lombardia vs Molise).
 2.  **Data Modeling (Power BI):** Architettura a stella per collegare tabelle dei fatti (reati, detenuti) con tabelle dimensionali (calendario, geografia, demografia).
+    * **DAX:** Calcolo dei tassi pro-capite (indici per 100 abitanti o 100.000 residenti) per rendere confrontabili regioni con popolazioni diverse (es. Lombardia vs Molise) e rasformazione dati in valori assoluti per analisi approfondita su temi specifici.
 3.  **Analisi Previsionale:** Implementazione di modelli di forecasting per stimare la pressione sulle infrastrutture carcerarie nei prossimi anni.
 4.  **UI/UX Design:** Dashboard interattiva con navigazione tra pagine tematiche e funzionalità di *drill-through* per il dettaglio regionale (es. il focus sulla regione Toscana).
 

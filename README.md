@@ -57,8 +57,11 @@ In questa fase è stata applicata la **Regressione Lineare** per proiettare i da
 
 ## 👥 Il Team: "DATI per spacciati"
 
-* [**Fabio De Bartolomeo**](https://github.com/debaef)
-* [**Matteo Incamicia**](https://github.com/incamiciamatteo)
-* [**Alessio Massaro**](https://github.com/saiba12)
-* [**Fernanda Macchiarella**](https://github.com/)
-* [**Giuseppe Esposito**](https://github.com/giuseppeesposito98-cmd)
+* **Fabio De Bartolomeo** [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/debaef)[![In](https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=blu)](https://www.linkedin.com/in/fabio-de-bartolomeo-36773015a/)
+  
+* **Matteo Incamicia** [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/incamiciamatteo)[![In](https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=blu)](https://www.linkedin.com/in/incamiciamatteo/)
+  
+* **Alessio Massaro** [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/saiba12)[![In](https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=blu)](https://www.linkedin.com/in/alessio-massaro-433906179/)
+* **Fernanda Macchiarella** [![In](https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=blu)](https://www.linkedin.com/in/fernandamaria-macchiarella/)
+
+* **Giuseppe Esposito** [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/giuseppeesposito98-cmd)[![In](https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=blu)](https://www.linkedin.com/in/giuseppeesposito-eng/)

@@ -57,8 +57,8 @@ In questa fase è stata applicata la **Regressione Lineare** per proiettare i da
 
 ## 👥 Il Team: "DATI per spacciati"
 
-* **Fabio De Bartolomeo** [GitHub](https://github.com/debaef)
-* **Matteo Incamicia** [GitHub](https://github.com/incamiciamatteo)
-* **Alessio Massaro** [GitHub](https://github.com/saiba12)
-* **Fernanda Macchiarella** [GitHub](https://github.com/)
-* **Giuseppe Esposito** [GitHub](https://github.com/giuseppeesposito98-cmd)
+* [**Fabio De Bartolomeo**](https://github.com/debaef)
+* [**Matteo Incamicia**](https://github.com/incamiciamatteo)
+* [**Alessio Massaro**](https://github.com/saiba12)
+* [**Fernanda Macchiarella**](https://github.com/)
+* [**Giuseppe Esposito**](https://github.com/giuseppeesposito98-cmd)
